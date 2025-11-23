@@ -1,0 +1,17 @@
+# Extraction
+selenium
+webdriver-manager
+beautifulsoup4
+
+# Transformation & Analysis
+pandas
+numpy
+matplotlib
+seaborn
+
+# Database
+sqlalchemy
+pyodbc
+
+# Utilities
+jupyter
